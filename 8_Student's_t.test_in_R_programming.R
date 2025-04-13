@@ -1,8 +1,4 @@
-# How To Use R for Research
-# 11- Student's t.test in R programming
-
 # The t-test uses to examine the difference of means of two groups of data.
-
 # Default in t-test assumes unequal variance and applies the Welsh df modification
 
 # Create data:

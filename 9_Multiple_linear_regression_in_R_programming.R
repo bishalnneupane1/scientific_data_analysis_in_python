@@ -1,14 +1,8 @@
-# How To Use R for Research
-# 12- Multiple linear regression in R programming
-
-# Multiple linear regression (mlr) example:
-  
+# Multiple linear regression (mlr) example: 
 # fit <- lm(y ~ x1 + x2 + x3, data=mydata) # ~: tilde symbol
   
-#  Download data  used in this tutorial: https://github.com/Azad77/py4researchers/blob/main/data/LAI_factors.csv
-  
 #  Load data:
-  df<- read.csv("D:\\R4Researchers\\LAI_factors.csv")
+  df<- read.csv("LAI_factors.csv")
   View(df)
   head(df)
 

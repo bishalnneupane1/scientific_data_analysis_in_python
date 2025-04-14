@@ -41,3 +41,4 @@ pct <- round(piedata/sum(piedata)*100,2)
 class <- paste(class, pct)
 class <- paste(class,"%",sep="")
 pie(piedata,labels = class, col=rainbow(5), main="LULC Types in 2013")
+
